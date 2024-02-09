@@ -14,5 +14,8 @@ To run this program use below command
       or
 >>  python main.py
 
+![image](https://github.com/VikasKarbail/Kanye-qoutes/assets/117006055/e1fa25c6-7bcf-41be-aadf-efce16554ad7)
+
+
 
                                                                             VIKAS K.R.
